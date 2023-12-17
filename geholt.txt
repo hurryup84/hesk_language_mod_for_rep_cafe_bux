@@ -1,0 +1,5 @@
+$hesklang['close']='Abgeholt'; // Closed ticket STATUS
+$hesklang['all_not_closed']='Alle außer abgeholte';
+$hesklang['thist3']='<li class="smaller">%s &#124; Abgeholt von %s</li>'; // %s = date, user making change
+$hesklang['ccct']='Vom Kunden abgeholt';
+$hesklang['statistics']['resolved']='Abgeholt';

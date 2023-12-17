@@ -1,0 +1,4 @@
+$hesklang['replied']='Fertig';
+$hesklang['statistics']['answered']='Fertig';
+$hesklang['statistics']['unanswered']='Unfertig';
+$hesklang['escalate']['nrep']='vom Mitarbeiter noch nicht fertig gemacht';
