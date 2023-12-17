@@ -66,7 +66,7 @@ $hesklang['can_edit_tickets']='Fertige Geräte bearbeiten';
 $hesklang['showtic']='Das soeben fertiggestellte Geräte anzeigen';
 $hesklang['ticall']='Fertige Geräte';
 $hesklang['atbr']='Dieses Geräte muss zugewiesen werden bevor es fertiggestellt werden kann.';
-$hesklang['statistics']['pie_title_au']='Offene Geräte: Fertig vs. Unfertig';
+$hesklang['statistics']['pie_title_au']='Offene Reparaturen: Fertig vs. Unfertig';
 $hesklang['statistics']['chart_title_tfrc']='Geräte, die innerhalb eines Zeitrahmens fertiggestellt wurden';
 $hesklang['statistics']['axis1']='% von Geräte fertig';
 $hesklang['escalate']['feat1']='Geräte, die nicht innerhalb eines bestimmten Zeitrahmens zugewiesen, fertig oder gelöst werden';
@@ -102,6 +102,9 @@ $hesklang['mm3']='Wir bitten um Verständnis';
 $hesklang['mma1']='Herzlich Willkommen!';
 $hesklang['mma2']='Beim Reparaturtreff Buxtehude.';
 
+// Nachricht absenden wird zu gerät eintragen:
+$hesklang['sub_ticket']='Gerät eintragen';
+
 
 // Ticket wird zu Gerät: 
 // (enthält evtl auch Ersetzungen von Punkten weiter oben
@@ -124,7 +127,7 @@ $hesklang['ticket']='Gerät';
 $hesklang['tickets']='Geräte';
 $hesklang['ticket_been']='Dieses Gerät wurde';
 $hesklang['view_ticket']='TicGerätket anzeigen';
-$hesklang['open_tickets']='Offene Geräte';
+$hesklang['open_tickets']='Offene Reparaturen';
 $hesklang['ticket_marked']='Gerät wurde markiert';
 $hesklang['ticket_status']='Geräte';
 $hesklang['ticket_trackID']='Tracking-Nr. des Gerätes';
@@ -208,8 +211,8 @@ $hesklang['tislock']='Geräte wurde gesperrt - der Kunde kann keine Antwort mehr
 $hesklang['tislock2']='Geräte wurde gesperrt - es können keine Antworten mehr hinzugefügt werden.';
 $hesklang['thist7']='<li class="smaller">%s &#124; Geräte eröffnet von %s</li>'; // %s = date, user making change
 $hesklang['elocked']='Geräte wurde gesperrt oder gelöscht.';
-$hesklang['nti2']='Ein neues Geräte einfügen';
-$hesklang['nti3']='Dieses Formular dient dazu im Namen eines Kunden ein neues Geräte zu eröffnen.<br /><strong>Bei Name und Email sind jeweils die Kundendaten anzugeben!</strong><br />Das Geräte wird angelegt, als hätte der Kunde es übermittelt.';
+$hesklang['nti2']='Ein neues Geräte anlegen';
+$hesklang['nti3']='Dieses Formular dient dazu im Namen eines Kunden ein neues Gerät anzulegen.<br /><strong>Bei Name und Email sind jeweils die Kundendaten anzugeben!</strong><br />Das Geräte wird angelegt, als hätte der Kunde es eingetragen.';
 $hesklang['otas']='Geräte nach dem Anlegen anzeigen';
 $hesklang['ntam']='Mir ein Geräte zugewiesen wird';
 $hesklang['ycvtao']='Keine Erlaubnis Geräte einzusehen welche anderen zugewiesen sind';
@@ -253,8 +256,8 @@ $hesklang['noopen']='Keine offenen Geräte zu dieser Emailadresse gefunden.';
 $hesklang['ntnote']='Andere Person hat eine Notiz zu einem mir zugewiesenen Geräte hinzugefügt';
 $hesklang['cat_aa']='Autom. Zuweisung von Geräte in diese Kategorie.';
 $hesklang['user_aa']='Autom. Zuweisung von Geräte für diesen Mitarbeiter aktivieren.';
-$hesklang['oo']='Nur offene Geräte anzeigen';
-$hesklang['ool']='Zeigt nur offene Geräte in der &quot;Tracking-ID vergessen?&quot; Email auf';
+$hesklang['oo']='Nur offene Reparaturn anzeigen';
+$hesklang['ool']='Zeigt nur offene Reparaturen in der &quot;Tracking-ID vergessen?&quot; Email auf';
 $hesklang['mop']='Max. offene Kundengeräte';
 $hesklang['can_merge_tickets']='Geräte zusammenlegen';
 $hesklang['mer_selected']='Ausgewählte Geräte zusammenlegen';
@@ -375,7 +378,7 @@ $hesklang['ticket_details']='Geräte Details';
 $hesklang['hide_replies']='Geräte-Antworten ausblenden';
 $hesklang['lwidth']='Geräte-Breite begrenzen';
 $hesklang['statistics']['ntsp']='Keine Geräte in der ausgewählten Zeitspanne.';
-$hesklang['statistics']['pie_title_as']='Offene Geräte: Zugeteilt vs. Nicht zugeteilt';
+$hesklang['statistics']['pie_title_as']='Offene Reparaturen: Zugeteilt vs. Nicht zugeteilt';
 $hesklang['statistics']['pie_title_so']='Status der offenen Geräte';
 $hesklang['statistics']['retic']='Geräte:';
 $hesklang['statistics']['chart_title_md']='Geräte pro Tag des Monats';
@@ -425,7 +428,7 @@ $hesklang['due_date_updated']='Das Geräte-Fälligkeitsdatum wurde aktualisiert.
 $hesklang['ql_all']='Alle Geräte';
 $hesklang['ql_alo']='Alle offenen Geräte';
 $hesklang['ql_fit']='Gefilterte Geräte';
-$hesklang['not_aos']='Einige offene Geräte, auf die Sie Zugriff haben, werden aufgrund Ihrer Filter nicht angezeigt.';
+$hesklang['not_aos']='Einige offene Reparaturen, auf die Sie Zugriff haben, werden aufgrund Ihrer Filter nicht angezeigt.';
 $hesklang['desc_overdue_ticket']='(Mitarbeiter) Geräte Überfällig';
 $hesklang['overdue_starting']='Benachrichtigungsprozess für überfällige Geräte starten';
 $hesklang['overdue_sim']='Das Senden von E-Mails und das Aktualisieren von Geräte ist im Modus SIMULATION deaktiviert.';
