@@ -1,1 +1,0 @@
-$hesklang['on_hold']='Wartet auf Ersatzteil';

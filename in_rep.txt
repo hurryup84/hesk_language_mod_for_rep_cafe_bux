@@ -1,2 +1,0 @@
-$hesklang['in_progress']='In Reparatur';
-$hesklang['mma2']='Beim Reparaturtreff Buxtehude.';

@@ -1,9 +1,0 @@
-$hesklang['subject']='Fehlerbeschreibung';
-$hesklang['message']='Fehlerdetails';
-$hesklang['place_after']='Nach den Fehlerdetails';
-$hesklang['place_before']='Vor den Fehlerdetails';
-$hesklang['kb_subject']='Fehlerbeschreibung';
-$hesklang['m_sub']='Fehlerbeschreibung:'; // Mail subject
-$hesklang['m_esu']='Fehlerbeschreibung fehlt';
-$hesklang['enn']='Außer für Email Piping/POP3 wenn im Fehlerbeschreibung vorkommt:';
-$hesklang['req_sub']='Fehlerbeschreibung erforderlich';

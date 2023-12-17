@@ -1,9 +1,0 @@
-$hesklang['owner']='Techniker';
-$hesklang['tasi']='Techniker zugewiesen';
-$hesklang['nose']='Kein Techniker ausgewählt';
-$hesklang['onasc']='Dieser Techniker hat keinen Zugriff auf die ausgewählte Kategorie.';
-$hesklang['owneed']='Techniker erforderlich';
-$hesklang['ycto']='JA, Techniker ändern';
-$hesklang['ncto']='NEIN, aktuellen Techniker behalten';
-$hesklang['fass']='Techniker erforderlich';
-$hesklang['assign_no']='Kein Techniker ausgewählt, keine Änderungen vorgenommen';
