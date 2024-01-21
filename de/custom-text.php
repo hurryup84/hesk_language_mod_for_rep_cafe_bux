@@ -103,7 +103,7 @@ $hesklang['mma1']='Herzlich Willkommen!';
 $hesklang['mma2']='Beim Reparaturtreff Buxtehude.';
 
 // Nachricht absenden wird zu gerät eintragen:
-$hesklang['sub_ticket']='Gerät eintragen';
+$hesklang['sub_ticket']='Reparaturregeln zustimmen und Gerät eintragen';
 
 
 // Ticket wird zu Gerät: 
