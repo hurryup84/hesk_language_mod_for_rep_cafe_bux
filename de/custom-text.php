@@ -39,7 +39,7 @@ $hesklang['import']='Es wird ein <em>privates Geräte</em> in einen <em>öffentl
 $hesklang['close']='Abgeholt'; // Closed ticket STATUS
 $hesklang['all_not_closed']='Alle außer abgeholte';
 $hesklang['thist3']='<li class="smaller">%s &#124; Abgeholt von %s</li>'; // %s = date, user making change
-$hesklang['ccct']='Vom Kunden abgeholt';
+$hesklang['ccct']='Vom Besitzer abgeholt';
 $hesklang['statistics']['resolved']='Abgeholt';
 
 $hesklang['closed']='Abgeholt'; // Geräte has been RESOLVED
@@ -58,7 +58,7 @@ $hesklang['statistics']['pie_title_ro']='Offene gegen Abgeholte Geräte';
 // Beantwortet wird zu Fertig
 $hesklang['replied']='Fertig';
 $hesklang['statistics']['answered']='Fertig';
-$hesklang['statistics']['unanswered']='Unfertig';
+$hesklang['statistics']['unanswered']='Noch nicht fertig';
 $hesklang['escalate']['nrep']='vom Mitarbeiter noch nicht fertig gemacht';
 
 
@@ -66,7 +66,7 @@ $hesklang['can_edit_tickets']='Fertige Geräte bearbeiten';
 $hesklang['showtic']='Das soeben fertiggestellte Geräte anzeigen';
 $hesklang['ticall']='Fertige Geräte';
 $hesklang['atbr']='Dieses Geräte muss zugewiesen werden bevor es fertiggestellt werden kann.';
-$hesklang['statistics']['pie_title_au']='Offene Reparaturen: Fertig vs. Unfertig';
+$hesklang['statistics']['pie_title_au']='Offene Reparaturen: Fertig vs. noch nicht fertig';
 $hesklang['statistics']['chart_title_tfrc']='Geräte, die innerhalb eines Zeitrahmens fertiggestellt wurden';
 $hesklang['statistics']['axis1']='% von Geräte fertig';
 $hesklang['escalate']['feat1']='Geräte, die nicht innerhalb eines bestimmten Zeitrahmens zugewiesen, fertig oder gelöst werden';
@@ -79,7 +79,7 @@ $hesklang['in_progress']='In Reparatur';
 // Absenden wird zu Status ändern:
 $hesklang['submit_as']='Status ändern auf:';
 
-// Besitzter (Ticketowner) wird zu Techniker:
+// Besitzer (Ticketowner) wird zu Techniker:
 $hesklang['owner']='Techniker';
 $hesklang['tasi']='Techniker zugewiesen';
 $hesklang['nose']='Kein Techniker ausgewählt';
@@ -126,7 +126,7 @@ $hesklang['find_ticket']='Gerät finden';
 $hesklang['ticket']='Gerät';
 $hesklang['tickets']='Geräte';
 $hesklang['ticket_been']='Dieses Gerät wurde';
-$hesklang['view_ticket']='TicGerätket anzeigen';
+$hesklang['view_ticket']='Gerät anzeigen';
 $hesklang['open_tickets']='Offene Reparaturen';
 $hesklang['ticket_marked']='Gerät wurde markiert';
 $hesklang['ticket_status']='Geräte';
@@ -212,8 +212,8 @@ $hesklang['tislock2']='Geräte wurde gesperrt - es können keine Antworten mehr 
 $hesklang['thist7']='<li class="smaller">%s &#124; Geräte eröffnet von %s</li>'; // %s = date, user making change
 $hesklang['elocked']='Geräte wurde gesperrt oder gelöscht.';
 $hesklang['nti2']='Ein neues Geräte anlegen';
-$hesklang['nti3']='Dieses Formular dient dazu im Namen eines Kunden ein neues Gerät anzulegen.<br /><strong>Bei Name und Email sind jeweils die Kundendaten anzugeben!</strong><br />Das Geräte wird angelegt, als hätte der Kunde es eingetragen.';
-$hesklang['otas']='Geräte nach dem Anlegen anzeigen';
+$hesklang['nti3']='Dieses Formular dient dazu im Namen eines Besitzers ein neues Gerät anzulegen.<br /><strong>Bei Name und Email sind jeweils die Daten des Besitzers/in anzugeben!</strong><br />Das Gerät wird angelegt, als hätte der Kunde es eingetragen.';
+$hesklang['otas']='Besitzer stimmt den Reparaturregeln zu.';
 $hesklang['ntam']='Mir ein Geräte zugewiesen wird';
 $hesklang['ycvtao']='Keine Erlaubnis Geräte einzusehen welche anderen zugewiesen sind';
 $hesklang['seqid']='Gerätenummer';
@@ -258,7 +258,7 @@ $hesklang['cat_aa']='Autom. Zuweisung von Geräte in diese Kategorie.';
 $hesklang['user_aa']='Autom. Zuweisung von Geräte für diesen Mitarbeiter aktivieren.';
 $hesklang['oo']='Nur offene Reparaturn anzeigen';
 $hesklang['ool']='Zeigt nur offene Reparaturen in der &quot;Tracking-ID vergessen?&quot; Email auf';
-$hesklang['mop']='Max. offene Kundengeräte';
+$hesklang['mop']='Max. offene Geräte';
 $hesklang['can_merge_tickets']='Geräte zusammenlegen';
 $hesklang['mer_selected']='Ausgewählte Geräte zusammenlegen';
 $hesklang['merged']='Ausgewählte Geräte wurden zu Einem zusammengelegt.';
