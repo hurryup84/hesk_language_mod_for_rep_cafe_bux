@@ -213,7 +213,7 @@ $hesklang['thist7']='<li class="smaller">%s &#124; Geräte eröffnet von %s</li>
 $hesklang['elocked']='Geräte wurde gesperrt oder gelöscht.';
 $hesklang['nti2']='Ein neues Geräte anlegen';
 $hesklang['nti3']='Dieses Formular dient dazu im Namen eines Besitzers ein neues Gerät anzulegen.<br /><strong>Bei Name und Email sind jeweils die Daten des Besitzers/in anzugeben!</strong><br />Das Gerät wird angelegt, als hätte der Kunde es eingetragen.';
-$hesklang['otas']='Besitzer stimmt den Reparaturregeln zu.';
+$hesklang['otas']='Besitzer stimmt den Reparaturregeln zu';
 $hesklang['ntam']='Mir ein Geräte zugewiesen wird';
 $hesklang['ycvtao']='Keine Erlaubnis Geräte einzusehen welche anderen zugewiesen sind';
 $hesklang['seqid']='Gerätenummer';
