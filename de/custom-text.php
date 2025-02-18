@@ -76,9 +76,6 @@ $hesklang['satisfaction']['h3']='Wenn Ihre Umfrage fertig ist, aktivieren Sie Fo
 // in Bearbeitung wird zu in Reparatur:
 $hesklang['in_progress']='In Reparatur';
 
-// Absenden wird zu Status ändern:
-$hesklang['submit_as']='Status ändern auf:';
-
 // Besitzer (Ticketowner) wird zu Techniker:
 $hesklang['owner']='Techniker';
 $hesklang['tasi']='Techniker zugewiesen';
@@ -459,8 +456,13 @@ $hesklang['confirm_delete_ticket']='Sind Sie sicher, dass Sie dieses Geräte dau
 $hesklang['select_new_category']='Anzahl der Geräte in dieser Kategorie: %s<br><br>Bitte wählen Sie eine neue Kategorie, in die diese Geräte übertragen werden sollen:'; // %s = Number of Geräte
 $hesklang['deleting_user_with_tickets']='Anzahl der Geräte, die diesem Benutzer zugewiesen wurden: %1$s<br>Anzahl der <b>Offenen</b> Geräte, die diesem Benutzer zugewiesen sind: %2$s<br><br><b>Offene</b> Geräte werden <b>nicht zugewiesen</b> nachdem dieser Benutzer gelöscht wurde.'; // %1$s = total Geräte, %2$s = open Geräte
 $hesklang['antdemo']='Das Einreichen von Geräte über das Admin-Panel wurde im Demo-Modus deaktiviert.<br><br>Bitte verwenden Sie die <a href="%s" target="_blank">öffentliche Seite</a> um ein Testgerät einzureichen.';
+// Fix senden button, because it will change status to 'Fertig' 
+$hesklang['submit_reply']='E-Mail senden und Gerät löschen';
+// Absenden wird zu Status ändern:
+$hesklang['submit_as']='Eintrag speichern:';
 
-
+$hesklang['copy_link']='Geräte-Link kopieren';
+$hesklang['copy_link_title']='Öffentlichen Link zu diesem Gerät kopieren';
 
 // DO NOT CHANGE BELOW
 if (!defined('IN_SCRIPT')) die('PHP syntax OK!');
