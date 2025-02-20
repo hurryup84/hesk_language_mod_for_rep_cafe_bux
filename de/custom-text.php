@@ -55,6 +55,7 @@ $hesklang['notclo']='Ein Geräte als abgeholt markiert wird';
 $hesklang['statistics']['axis2']='% von Geräte abgeholt';
 $hesklang['statistics']['pie_title_ro']='Offene gegen Abgeholte Geräte';
 
+
 // Beantwortet wird zu Fertig
 $hesklang['replied']='Fertig';
 $hesklang['statistics']['answered']='Fertig';
@@ -457,7 +458,7 @@ $hesklang['select_new_category']='Anzahl der Geräte in dieser Kategorie: %s<br>
 $hesklang['deleting_user_with_tickets']='Anzahl der Geräte, die diesem Benutzer zugewiesen wurden: %1$s<br>Anzahl der <b>Offenen</b> Geräte, die diesem Benutzer zugewiesen sind: %2$s<br><br><b>Offene</b> Geräte werden <b>nicht zugewiesen</b> nachdem dieser Benutzer gelöscht wurde.'; // %1$s = total Geräte, %2$s = open Geräte
 $hesklang['antdemo']='Das Einreichen von Geräte über das Admin-Panel wurde im Demo-Modus deaktiviert.<br><br>Bitte verwenden Sie die <a href="%s" target="_blank">öffentliche Seite</a> um ein Testgerät einzureichen.';
 // Fix senden button, because it will change status to 'Fertig' 
-$hesklang['submit_reply']='E-Mail senden und Gerät löschen';
+$hesklang['submit_reply']='Gerät als Fertig markieren';
 // Absenden wird zu Status ändern:
 $hesklang['submit_as']='Eintrag speichern:';
 
