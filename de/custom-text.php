@@ -95,7 +95,7 @@ $hesklang['ntoverdue']='Ein Gerät ist beim Techniker überfällig:';
 
 
 // Maintenance Mode Meldungen werden angepasst:
-$hesklang['mm2']='Je nach Anzahl der Anfragen und des Ablaufes werden dieses Feature evtl. in Zukunft aktivieren.';
+$hesklang['mm2']='Je nach Anzahl der Anfragen und des Ablaufes werden wir dieses Feature evtl. in Zukunft aktivieren.';
 $hesklang['mm3']='Wir bitten um Verständnis';
 $hesklang['mma1']='Herzlich Willkommen!';
 $hesklang['mma2']='Beim Reparaturtreff Buxtehude.';
